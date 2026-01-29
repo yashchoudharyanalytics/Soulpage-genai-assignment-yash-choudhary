@@ -1,3 +1,50 @@
+# 1. Clone the repository
+git clone https://github.com/yashchoudharyanalytics/Soulpage-genai-assignment-yash-choudhary.git 
+cd Soulpage-genai-assignment-yash-choudhary
+
+# 2. Create & activate virtual environment
+python -m venv venv
+venv\Scripts\activate   # Windows
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. (Optional) Set OpenAI API Key
+set OPENAI_API_KEY=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   # Windows
+
+# 5. Launch the Streamlit UI
+streamlit run app.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Soulpage GenAI Assignment
 Unified Agentic AI System: Conversational Intelligence → Multi-Agent Reasoning
 
