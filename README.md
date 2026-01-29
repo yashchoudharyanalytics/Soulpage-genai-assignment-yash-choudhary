@@ -10,39 +10,10 @@ venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 
 # 4. (Optional) Set OpenAI API Key
-set OPENAI_API_KEY=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   # Windows
+set OPENAI_API_KEY= "API KEY" # Windows
 
 # 5. Launch the Streamlit UI
 streamlit run app.py
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Soulpage GenAI Assignment
