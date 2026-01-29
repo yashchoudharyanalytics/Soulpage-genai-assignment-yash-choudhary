@@ -1,1 +1,8 @@
+langchain
+langchain-community
+openai
+streamlit
+duckduckgo-search
+python-dotenv
+pydantic
 
